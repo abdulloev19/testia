@@ -58,7 +58,7 @@ header {
   border-top: 1px solid #fff; */
   background-color: rgba(255, 255, 255, 0.878);
   box-shadow: 0 1px 20px rgb(0, 0, 0);
-  position: fixed;
+  /*position: fixed;*/
   z-index: 1000;
 }
 .header_content {
